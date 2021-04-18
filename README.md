@@ -8,8 +8,6 @@
 <img alt="GIF" align="center" src="https://github.com/diable201/diable201/blob/master/assets/banner.gif">
 </div>
 
-- 🔭 I’m currently working on OOP
-
 <!--
 **diable201/diable201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
