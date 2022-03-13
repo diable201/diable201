@@ -6,7 +6,7 @@
 
 <div align="center">
   <kbd>
-    <img src="https://waifu.now.sh/sfw/hug" alt="">
+    <img src="https://waifu.now.sh/sfw/cringe" alt="">
   </kbd>
 </div>
 
