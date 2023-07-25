@@ -1,11 +1,11 @@
-# Hi, my name is Sanzhar <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-## Welcome to my GitHub profile 🐙
+# Hi, my name is Sanzhar <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Welcome to my GitHub profile 🐙
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diable201&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 ## ✌️ About me
 * 🎓 B.Sc of Computer Science at [KBTU](https://kbtu.edu.kz/en/)
-<!--  📚   Studying M.Sc of  -->
 * 🙀 C++/Python Software Engineer
 * 🤔 Interested in Machine Learning and DevOps
+* 🥷 Anime | Startups | Open Source True Enjoyer
+<!--  📚   Studying M.Sc of  -->
 ## 🧑‍💻 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diable201&langs_count=16&layout=compact&theme=dracula&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 ## 🏆 Trophy 
