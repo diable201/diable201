@@ -1,6 +1,11 @@
-## Hi, my name is Sanzhar <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-### Welcome to my GitHub profile
+# Hi, my name is Sanzhar <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+## Welcome to my GitHub profile 🐙
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diable201&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
+## ✌️ About me
+* 🎓 B.Sc of Computer Science at [KBTU](https://kbtu.edu.kz/en/)
+<!--  📚   Studying M.Sc of  -->
+🙀 C++/Python Software Engineer
+🤔 Interested in Machine Learning and DevOps
 ## 🧑‍💻 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diable201&langs_count=16&layout=compact&theme=dracula&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 ## 🏆 Trophy 
@@ -26,6 +31,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
 
@@ -45,6 +51,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs/Editors
@@ -65,6 +74,29 @@
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+***REMOVED***
+***REMOVED***
+***REMOVED***
+***REMOVED***
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+
+## 🐈 If you've read this far, I feel sorry for you.
+```
+.            ／＞　 フ
+            | 　_　_| 
+          ／` ミ__^ノ 
+         /　　　　 |
+        /　 ヽ　　 ﾉ       ╱|、
+       /　　|　|　|      (˚ˎ 。7  
+／￣|　      |　|　|      |、˜〵          
+(￣ヽ＿_  ヽ_)__)         じしˍ,)ノ
+＼二)
+```
+
+
+
 <!--
 <div align="center">
   <kbd>
@@ -72,21 +104,3 @@
   </kbd>
 </div>
 -->
-
-<!--
-**diable201/diable201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
