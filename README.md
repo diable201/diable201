@@ -4,8 +4,8 @@
 ## ✌️ About me
 * 🎓 B.Sc of Computer Science at [KBTU](https://kbtu.edu.kz/en/)
 <!--  📚   Studying M.Sc of  -->
-🙀 C++/Python Software Engineer
-🤔 Interested in Machine Learning and DevOps
+* 🙀 C++/Python Software Engineer
+* 🤔 Interested in Machine Learning and DevOps
 ## 🧑‍💻 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diable201&langs_count=16&layout=compact&theme=dracula&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 ## 🏆 Trophy 
