@@ -2,7 +2,7 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diable201&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 ## ✌️ About me
 * 🎓 B.Sc of Computer Science at [KBTU](https://kbtu.edu.kz/en/)
-* 🙀 C++/Python Software Engineer
+* 🙀 C++/Python Software Engineer at [Kaspi.kz](https://kaspi.kz/)
 * 🤔 Interested in Machine Learning and DevOps
 * 🥷 Anime | Startups | Open Source True Enjoyer
 <!--  📚   Studying M.Sc of  -->
