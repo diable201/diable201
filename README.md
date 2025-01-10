@@ -18,10 +18,9 @@ Get ready to dive into my world of **tech, anime, and open source!**
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diable201&show_icons=true&theme=radical" width="100%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diable201&theme=radical" width="100%">
-
-</div>  
+  <img src="https://github-readme-stats.vercel.app/api?username=diable201&show_icons=true&theme=radical" width="50%">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=diable201&theme=radical" alt="GitHub Streak" width="50%"/></a>
+</div>
 
 ---
 ## 🧑‍💻 Top Languages
