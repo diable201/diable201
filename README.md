@@ -1,17 +1,36 @@
-# Hi, my name is Sanzhar <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Welcome to my GitHub profile 🐙
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diable201&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
-## ✌️ About me
-* 🎓 B.Sc of Computer Science at [KBTU](https://kbtu.edu.kz/en/)
-* 🙀 MLOps Engineer at [Kaspi.kz](https://kaspi.kz/)
-* 🤔 Interested in Machine Learning and DevOps
-* 🥷 Anime | Startups | Open Source True Enjoyer
-<!--  📚   Studying M.Sc of  -->
-## 🧑‍💻 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diable201&langs_count=16&layout=compact&theme=dracula&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-## 🏆 Trophy 
-[![trophy](https://github-profile-trophy.vercel.app/?username=diable201&margin-w=38&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+# Hey there! I'm **Sanzhar** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">   
+ 
+> 🐙 Welcome to my GitHub corner! 
 
-## 🛠️ My Skills
+Get ready to dive into my world of **tech, anime, and open source!**
+
+
+## 💡 About Me  
+
+- 🎓 **Bachelor's in Computer Science** from [KBTU](https://kbtu.edu.kz/en/)  
+- 🔧 **MLOps Engineer** at [Kaspi.kz](https://kaspi.kz/)  
+- 🧠 Obsessed with **Machine Learning**, **DevOps**, and **Automation**  
+- 🎯 Building cool projects while balancing work, life, and my love for **anime** 🌟  
+- 🚀 Constantly exploring **startups**, **open-source projects**, and **new tech trends** 
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diable201&show_icons=true&theme=radical" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diable201&theme=radical" width="100%">
+
+</div>  
+
+---
+## 🧑‍💻 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diable201&langs_count=16&layout=compact&theme=radical&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 Trophy 
+[![trophy](https://github-profile-trophy.vercel.app/?username=diable201&margin-w=38&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## 🔥 Skills & Tools  
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages & Frameworks
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,6 +51,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
 
@@ -54,6 +74,12 @@
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs/Editors
@@ -63,6 +89,10 @@
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
@@ -73,12 +103,17 @@
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![RedHat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 
+## ✨ Fun Stuff  
 
-## ✍️ Random Dev Quote
+### ✍️ Dev Quote of the Day  
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
-## 🐈 If you've read this far, I feel sorry for you.
+### 🐈 If you've read this far, I feel sorry for you.
 ```
 .            ／＞　 フ
             | 　_　_| 
@@ -91,12 +126,10 @@
 ＼二)
 ```
 
-
-
-<!--
+### 🎨 Random Waifu Generator
 <div align="center">
   <kbd>
     <img src="https://waifu.now.sh/sfw/kiss" alt="">
   </kbd>
 </div>
--->
+
