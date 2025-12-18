@@ -9,7 +9,7 @@ Get ready to dive into my world of **tech, anime, and open source!**
 
 - 🎓 **Bachelor's in Computer Science** from [KBTU](https://kbtu.edu.kz/en/)
 - 👨‍🔬 **Master's in Software Engineering** from [KBTU](https://kbtu.edu.kz/en/)  
-- 🔧 **MLOps Engineer** at [Kaspi.kz](https://kaspi.kz/)  
+- 🔧 **Software Engineer** at [bcc.kz](https://bcc.kz/en/)  
 - 🧠 Obsessed with **Machine Learning**, **DevOps**, and **Automation**  
 - 🎯 Building cool projects while balancing work, life, and my love for **anime** 🌟  
 - 🚀 Constantly exploring **startups**, **open-source projects**, and **new tech trends** 
