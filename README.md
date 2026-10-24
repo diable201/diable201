@@ -129,7 +129,7 @@ Get ready to dive into my world of **tech, anime, and open source!**
 ### 🎨 Random Waifu Generator
 <div align="center">
   <kbd>
-    <img src="https://waifu.now.sh/sfw/kiss" alt="">
+    <img src="https://diable201-anime.vercel.app/sfw/random" alt="">
   </kbd>
 </div>
 
